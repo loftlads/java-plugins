@@ -1,2 +1,2 @@
 # java-plugins
-Creating plugins with spigot
+Creating plugins with spigot.
